@@ -65,6 +65,21 @@ Experience a narrative centered around fear, hope, and the courage to move forwa
 
 ---
 
+## Development Team & My Contributions
+
+**Development Team:** 3 Members
+
+**My Role:** Game Programmer
+
+My main responsibility was developing gameplay systems and implementing game mechanics using C# in Unity.
+
+- Wrote and implemented C# scripts for gameplay systems.
+- Developed and implemented game mechanics.
+- Worked on gameplay logic and system functionality.
+- Collaborated with team members to integrate gameplay features.
+
+---
+
 ## Developer
 
 **Game Developer:** [@MarryMeplz00](https://github.com/marrymeplz00)
