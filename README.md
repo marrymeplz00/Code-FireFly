@@ -80,6 +80,10 @@ My main responsibility was developing gameplay systems and implementing game mec
 
 ---
 
+## Play the Game
+
+[▶ Play FireFy](https://marrymeplz00.itch.io/firefly)
+
 ## Developer
 
 **Game Developer:** [@MarryMeplz00](https://github.com/marrymeplz00)
